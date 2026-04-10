@@ -1,0 +1,21 @@
+2025-05-14 12:39:32,926 - main - INFO - Log directory: log
+2025-05-14 12:39:34,265 - main - INFO - data: hotel_data-our
+2025-05-14 12:39:34,265 - main - INFO - character:['uw', 'a']
+2025-05-14 12:39:34,265 - main - INFO - join-lexicon threshold value:0.3
+2025-05-14 12:39:34,377 - main - INFO - 循环次数:1
+2025-05-14 12:39:34,426 - main - INFO - 循环次数:2
+2025-05-14 12:39:34,493 - main - INFO - len time: 1.66685152053833
+2025-05-15 12:30:14,102 - main - INFO - Log directory: log
+2025-05-15 12:30:18,902 - main - INFO - data: hotel_data-our
+2025-05-15 12:30:18,902 - main - INFO - character:['uw', 'a']
+2025-05-15 12:30:18,902 - main - INFO - join-lexicon threshold value:0.3
+2025-05-15 12:30:19,316 - main - INFO - 循环次数:1
+2025-05-15 12:30:19,652 - main - INFO - 循环次数:2
+2025-05-15 12:30:19,702 - main - INFO - len time: 5.644302129745483
+2025-05-15 12:30:54,985 - main - INFO - Log directory: log
+2025-05-15 12:30:59,918 - main - INFO - data: hotel_data-our
+2025-05-15 12:30:59,918 - main - INFO - character:['uw', 'a']
+2025-05-15 12:30:59,918 - main - INFO - join-lexicon threshold value:0.3
+2025-05-15 12:31:00,395 - main - INFO - 循环次数:1
+2025-05-15 12:31:00,736 - main - INFO - 循环次数:2
+2025-05-15 12:31:00,768 - main - INFO - len time: 5.807795286178589
