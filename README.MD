@@ -147,5 +147,3 @@ python run.py case_lite_test.json 4
 1. **网络拓扑图**：`graph.png`，直观展示本轮模拟的社交网络结构。
 2. **事件总日志**：`cur_log.json`，详细记录了每个 Step 中每个智能体的`listen`、`talk`、`reflect` 和 `vote` 的完整内容及心理变化轨迹，可用于后续的数据分析与可视化。
 
----
-*Powered by LLM Multi-Agent Technology.*
